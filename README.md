@@ -17,3 +17,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=damhung0113&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </div>
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="My life" width="350" />](https://open.spotify.com/show/4aPCqaUsLdKqO6iG5SSa2F)
+
+![](https://visitor-badge.glitch.me/badge?page_id=damhung0113)
